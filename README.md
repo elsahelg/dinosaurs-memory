@@ -1,4 +1,6 @@
-Freepik dino img <a href="https://www.freepik.com/free-vector/different-dinosaurs-cartoon-character-fantasy-dragons-isolated_18194265.htm#query=dinosaurs&position=41&from_view=search&track=sph">Image by brgfx</a> on Freepik
+Freepik dino 
+
+Image by <a href="https://www.freepik.com/free-vector/hand-drawn-baby-dinosaur-illustrated_13861993.htm#page=6&query=dino&position=23&from_view=search&track=sph">Freepik</a>
 
 <a href="https://www.freepik.com/free-vector/isometric-colored-dinosaurs-set_26764158.htm#page=5&query=dinosaurs&position=32&from_view=search&track=sph">Image by macrovector</a> on Freepik
 
