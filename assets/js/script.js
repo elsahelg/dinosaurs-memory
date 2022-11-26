@@ -47,9 +47,21 @@ document.addEventListener("DOMContentLoaded", () => {
         image: ".assets/images/tyrannosaurusrex.jpg"
     }
     ];
-})
+    const grid = document.querySelectorAll(".memoryGrid");
 
 // shuffle cards, initiate memory board
+    
+    function runGame(){
+        for (let i = 0; i < cardsList.length; i++){
+        let card = document.createElement("img");
+        card.setAttribute("src", ".assets/images/placeholder.png");
+        card.setAttribute("data-id, i");
+        grid.appendChild(card);
+        }
+    }
+
+    runGame();
+})
 
 
 // flip cards
