@@ -6,6 +6,7 @@ body {
 
 .heading {
     font-family: 'Nerko One', cursive;
+    font-size: 150%;
 }
 
 .memoryContainer {
@@ -13,11 +14,17 @@ body {
     margin: 0 auto;
 }
 
+button {
+    font-family: 'Nerko One', cursive;
+    font-size: 200%;
+    margin: 20px;
+}
+
 .memoryGrid {
     display: flex;
     flex-wrap: wrap;
     width: 100%;
-    height: 650px;
+    height: 550px;
     border: 2px solid black;
 }
 
