@@ -47,7 +47,17 @@ document.addEventListener("DOMContentLoaded", () => {
         image: ".assets/images/tyrannosaurusrex.jpg"
     }
     ];
-    const grid = document.querySelectorAll(".memoryGrid");
+    cardsList.sort( () => 0.5 - Math.random() );
+    const grid = document.querySelector(".memoryGrid");
+    const attemptsCount = document.querySelector(".attemptsCount");
+    const pairCount = document.querySelector(".pairCount");
+
+    let attempts = 0;
+    let twins = 0;
+
+    let chosenCards = [];
+    let chosenCardsIds = [];
+    
 
 // shuffle cards, initiate memory board
     
